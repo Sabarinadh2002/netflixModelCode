@@ -17,7 +17,7 @@ Netflix_2 is a Flutter-based mobile application that recreates the UI and functi
 ## Screenshots
 
 ### Home Screen
-<img src="images/home.jpg" alt="Home Screen" width="600"/>
+<img src="images/home.jpg" alt="Home Screen" width="200"/>
 *The main home screen showcasing trending movies and categories.*
 
 ### New & Hot Section
