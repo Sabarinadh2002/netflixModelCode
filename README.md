@@ -21,16 +21,23 @@ Netflix_2 is a Flutter-based mobile application that recreates the UI and functi
 *The main home screen showcasing trending movies and categories.*
 
 ### New & Hot Section
-![New & Hot](images/new&hot.jpg)
-*The "New & Hot" section featuring tabs for "Coming Soon" and "Everyone's Watching."*
-![New & Hot](images/new&hot2.jpg)
-*The "New & Hot" section featuring tabs for "Coming Soon" and "Everyone's Watching."*
+<img src="images/new&hot.jpg" alt="Home Screen" width="200"/>
+*Comming soon section in New and Hot page*
+<img src="images/new&hot2.jpg" alt="Home Screen" width="200"/>
+*Everyone's Watching section in New and Hot page*
 
 ### Search Functionality
-![Search](images/search.jpg)
 
-![Search](images/search2.jpg)
+<img src="images/search2.jpg" alt="Home Screen" width="200"/>
+*Search movies and TV shows with a responsive search bar.*
+
+<img src="images/search.jpg" alt="Home Screen" width="200"/>
+*Results show the movies related to car based on the search*
 ---
+
+### Download Screen
+<img src="images/netflixdownload.jpg" alt="Home Screen" width="200"/>
+*This is the download page*
 
 ## Getting Started
 
